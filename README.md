@@ -1,3 +1,12 @@
+# 安装说明  
+代码比较久远，建议使用conda环境。  
+1）删除pipenv文件。  
+2）pip install opencv-python   安装cv2  
+3）pip install pillow  安装PIL   
+
+功能说明：Web窗口分为左右两部分，调用摄像头，视频流的实时处理。   
+
+
 # NodeJS + Python = :sparkles: 
 
 An experimental web app that utilizes both NodeJS and Python to get the best of both worlds.
